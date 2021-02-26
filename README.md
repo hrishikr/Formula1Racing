@@ -1,3 +1,3 @@
 # Grand Prix: An analysis of Formula 1 
-## Contributors: Rahul Narla, Rahul Kiefer, Hrishik Rajendra
+## Contributors: Hrishik Rajendra, Rahul Narla, Rahul Kiefer
 ### CMSC320: Final Project
